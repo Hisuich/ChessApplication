@@ -1,0 +1,19 @@
+﻿  Bishop.cpp
+  ChessApplication.cpp
+  Chessman.cpp
+  Console.cpp
+  GameManager.cpp
+F:\New folder\ChessApplication\ChessApplication\GameManager.cpp(275,38): warning C4101: e: неиспользованная локальная переменная
+  King.cpp
+  Knight.cpp
+  Pawn.cpp
+  Player.cpp
+  Queen.cpp
+  Rook.cpp
+  Создание кода
+F:\New folder\ChessApplication\ChessApplication\Player.cpp(238): warning C4172: возвращение адреса локальной или временной переменной : moves
+  108 of 431 functions (25.1%) were compiled, the rest were copied from previous compilation.
+    35 functions were new in current compilation
+    45 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ChessApplication.vcxproj -> F:\New folder\ChessApplication\Release\ChessApplication.exe

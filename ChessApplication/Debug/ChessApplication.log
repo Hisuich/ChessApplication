@@ -1,0 +1,8 @@
+﻿  GameManager.cpp
+F:\New folder\ChessApplication\ChessApplication\GameManager.cpp(302,38): warning C4101: e: неиспользованная локальная переменная
+  King.cpp
+  Player.cpp
+  Создание кода...
+F:\New folder\ChessApplication\ChessApplication\Player.cpp(116): warning C4715: Player::Move: значение возвращается не при всех путях выполнения
+F:\New folder\ChessApplication\ChessApplication\Player.cpp(245): warning C4715: Player::TransformPawn: значение возвращается не при всех путях выполнения
+  ChessApplication.vcxproj -> F:\New folder\ChessApplication\Debug\ChessApplication.exe

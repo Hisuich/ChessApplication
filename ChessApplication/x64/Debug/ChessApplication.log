@@ -1,0 +1,18 @@
+﻿  Bishop.cpp
+  ChessApplication.cpp
+  ChessCoordinate.cpp
+F:\New folder\ChessApplication\ChessApplication\ChessCoordinate.cpp(44,30): warning C4838: Преобразование из "int" в "const char" требует сужающего преобразования.
+  Chessman.cpp
+  Console.cpp
+  King.cpp
+  Knight.cpp
+  Pawn.cpp
+  GameManager.cpp
+F:\New folder\ChessApplication\ChessApplication\GameManager.cpp(242,38): warning C4101: e: неиспользованная локальная переменная
+  Player.cpp
+  Queen.cpp
+  Rook.cpp
+  Создание кода...
+F:\New folder\ChessApplication\ChessApplication\Pawn.cpp(61): warning C4715: Pawn::Transform: значение возвращается не при всех путях выполнения
+F:\New folder\ChessApplication\ChessApplication\Chessman.cpp(38): warning C4715: Chessman::Beat: значение возвращается не при всех путях выполнения
+  ChessApplication.vcxproj -> F:\New folder\ChessApplication\x64\Debug\ChessApplication.exe
